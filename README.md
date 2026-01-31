@@ -8,6 +8,11 @@
 This project builds a **finance-grade RAG assistant** that answers IFRS 9 credit risk questions (e.g. SICR, Stage 1–2–3) **strictly based on regulatory documents**, with **transparent evidence and citations**.
 
 ---
+## 🔍 Demo Screenshot
+
+![IFRS 9 Credit Risk RAG Demo](images/demo.png)
+
+---
 
 ## 🚀 Key Features
 
