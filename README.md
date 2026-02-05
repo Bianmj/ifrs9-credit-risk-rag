@@ -20,7 +20,7 @@ This project builds a **finance-grade RAG assistant** that answers IFRS 9 credit
 * 📄 **PDF-grounded answers with page-level citations**
 * 🤖 **LLM-generated natural language explanations**
 * 🧠 **No hallucination**: answers are grounded in retrieved evidence only
-* 🖥️ **Interactive Streamlit UI** (ready for demo & interviews)
+* 🖥️ **Interactive Streamlit UI** 
 * 💼 **Finance-grade use case** (IFRS 9 / Credit Risk / ECL)
 
 ---
